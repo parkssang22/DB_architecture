@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="페이지-1" id="MEk_XrKmRVcRcDhsp7xg">
+    <mxGraphModel dx="1513" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8obAnLbEp5K5KZz83FOC-1" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="150" width="130" x="159" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="서버" vertex="1">
+          <mxGeometry height="30" width="60" x="194" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="209" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="클라이언트" vertex="1">
+          <mxGeometry height="30" width="80" x="184" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="380" x="349" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="359" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="459" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="549" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="639" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="프로세스 구조" vertex="1">
+          <mxGeometry height="30" width="170" x="539" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="236" x="413" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="619" y="390" as="sourcePoint" />
+            <mxPoint x="589" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="메모리구조 System Global Area" vertex="1">
+          <mxGeometry height="40" width="110" x="476" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="instance" vertex="1">
+          <mxGeometry height="30" width="60" x="509" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="194" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-20" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="280" />
+              <mxPoint x="279" y="230" />
+            </Array>
+            <mxPoint x="279" y="280" as="sourcePoint" />
+            <mxPoint x="329" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="70" x="194" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="8obAnLbEp5K5KZz83FOC-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="279" y="340" as="sourcePoint" />
+            <mxPoint x="369" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="386" x="353" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-26" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="379" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-27" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="479" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-28" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="569" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-29" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="659" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="데이터베이스 (저장 영역 구조)" vertex="1">
+          <mxGeometry height="30" width="110" x="491" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="-40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="-40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="User process" vertex="1">
+          <mxGeometry height="30" width="60" x="-10" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="server process" vertex="1">
+          <mxGeometry height="30" width="60" x="-10" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="8obAnLbEp5K5KZz83FOC-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="PGA" vertex="1">
+          <mxGeometry height="40" width="70" x="20" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
